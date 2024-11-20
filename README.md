@@ -1,6 +1,6 @@
 **github Project link : https://github.com/ParimalRSalunkhe/Shopify-Crud-Ope-Project.git**
 
-======================================================================**How did you run the code ?** =======================================================================
+===============================**How did you run the code ?** ===========================
 
 Here’s how the code is run:
 
@@ -40,7 +40,7 @@ Ensure your MySQL (or any configured RDBMS) is running, and the database credent
 The tables (category and product) will be auto-created by Hibernate based on the entity configurations.
 
 
-=============================================================================**How did you run the machine test ?** ===================================================================
+================================**How did you run the machine test ?** ============================
 
 I run the machine test by using the Eclipse IDE
 
@@ -81,7 +81,7 @@ Verified the expected behavior of APIs like GET, POST, PUT, and DELETE.
 Confirmed data was being stored, updated, and deleted in the MySQL database by querying the respective tables.
 
 
-=======================================================================**DB Design**=====================================================================
+========================**DB Design**======================
 
 1. Category Table
 
